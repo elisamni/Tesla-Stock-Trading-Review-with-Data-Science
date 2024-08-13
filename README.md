@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data Science Project
 In my project, "Tesla Stock Trading Review with Data Science," I undertook several key tasks and developed various skills:
 
 Data Collection: I utilized APIs and web scraping techniques to gather data on Tesla's stock prices and financial performance. This helped me enhance my skills in data acquisition.
